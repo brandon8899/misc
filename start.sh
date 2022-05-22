@@ -1,0 +1,1 @@
+./modme -a N2xr76Si8suTtv29wKF9PV9jZH35KD1 --pools modme:us.nosopool.xyz:8082 -t 8
